@@ -4,7 +4,6 @@
 // @namespace     http://ten-snapon.jp
 // @description   "Nishigin auto login macro"
 // @include       https://*.ncbank.co*/*
-// @license       MIT License
 // ==/UserScript==
 
 (function() {
